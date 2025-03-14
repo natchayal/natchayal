@@ -36,10 +36,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=natchayal&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 <table>
   <tr>
