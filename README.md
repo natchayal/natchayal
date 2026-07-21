@@ -7,6 +7,9 @@ Natchaya (Jade) Luangphairin, is a Ph.D. student at the University of South Flor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logo=Mathworks&style=social&logoColor=white) 
+![Tableau Desktop](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&style=social&logoColor=white)
 
 ---
@@ -17,6 +20,7 @@ Natchaya (Jade) Luangphairin, is a Ph.D. student at the University of South Flor
 [![ORCiD](https://img.shields.io/badge/ORCiD-A6CE39?style=for-the-badge&style=social&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2193-5449)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&style=social&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&authuser=1&user=UauTG8AAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&style=social&logoColor=white)](https://www.researchgate.net/profile/Natchaya-Luangphairin)
+<br>[Personal Website/Portfolio](https://natchayal.github.io/)</br>
 
 ---
 <table>
